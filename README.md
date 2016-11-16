@@ -4,8 +4,10 @@ This repository is to show examples of different parts of the Git repository.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Stating the purpose.
 
 ## Deployment
+
+Describe deployment
 
 ## How to Contribute
