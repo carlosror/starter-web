@@ -12,6 +12,8 @@ Describe deployment
 
 ## How to Contribute
 
+Here are some instructions
+
 ### Copyright
 
 2014 Git.Training
