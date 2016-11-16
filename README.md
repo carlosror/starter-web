@@ -11,3 +11,7 @@ Stating the purpose.
 Describe deployment
 
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training
